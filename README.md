@@ -5,16 +5,14 @@
 I'm a 15-year-old developer from Slovenia who enjoys creating games and experimenting with new ideas.
 
 ### 💻 What I do
-- Roblox Development
+- Game Development
 - Luau Programming
 - UI & Systems Design
-- Procedural Generation
 
 ### 🌱 Currently Learning
 - Advanced Luau
 - Game Architecture
 - C++
-- Digital Art
 
 ### 🎯 Goals
 - Build memorable games

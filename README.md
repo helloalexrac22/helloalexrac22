@@ -1,21 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20there!&fontSize=50)
 
-# About Me!
-My name is Alex and I am 15 years old. 🎉
-I live in Slovenia. 📍
-My current main programing language is: Luau
+# 👋 Hey, I'm Alex!
 
-<!--
-**helloalexrac22/helloalexrac22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 15-year-old developer from Slovenia who enjoys creating games and experimenting with new ideas.
 
-Here are some ideas to get you started:
+### 💻 What I do
+- Roblox Development
+- Luau Programming
+- UI & Systems Design
+- Procedural Generation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Advanced Luau
+- Game Architecture
+- C++
+- Digital Art
+
+### 🎯 Goals
+- Build memorable games
+- Improve my programming skills every day
+- Learn professional game development tools
+
+> "Every project teaches something new."

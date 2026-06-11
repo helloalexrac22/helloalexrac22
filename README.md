@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20there!&fontSize=50)
 
-My name is Alex! I am 15 years old.
+# My name is Alex and I am 15 years old. 🎉
+# I live in Slovenia. 📍
+# My current main programing language is: Luau
+
 <!--
 **helloalexrac22/helloalexrac22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
